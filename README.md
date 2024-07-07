@@ -57,7 +57,7 @@
 - [x]  **Picture Book Generation**. With a single user's instruction, LLMGA can generate an interwoven storybook of text and illustrations.
 - [x]  **Multilingual Support**.Through the multilingual adaptation of the LLMGA, T2I and editing model can generate content using Chinese language instructions.
 - [x]  **Flexible Expansion**. LLMGA offers enhanced flexibility by integrating with external plugins like ControlNet, enabling a wider range of functionalities.
-
+- [x] To be continued ......
 
 ## Contents
 - [TODO](#todo)
