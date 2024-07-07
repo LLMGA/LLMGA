@@ -41,14 +41,6 @@
 
 ---
 
-<div align=center>
-<img width="100%" src="imgs/github_poster1.png"/>
-</div>
-
-<div align=center>
-<img width="100%" src="imgs/github_poster2.png"/>
-</div>
-
 ## Why do you need LLMGA?
 
 - [x] **Generation Assiatant**. As a unified system, LLMGA can generate and edit images using methods such as Text-to-Image (T2I), inpainting, outpainting, and instruction-based editing through conversational interactions with users. By leveraging the extensive knowledge and understanding of image design from LLMGA, users can easily produce and revise images to obtain highly satisfactory images.
@@ -58,6 +50,16 @@
 - [x]  **Multilingual Support**.Through the multilingual adaptation of the LLMGA, T2I and editing model can generate content using Chinese language instructions.
 - [x]  **Flexible Expansion**. LLMGA offers enhanced flexibility by integrating with external plugins like ControlNet, enabling a wider range of functionalities.
 - [x] To be continued ......
+
+<div align=center>
+<img width="100%" src="imgs/github_poster1.png"/>
+</div>
+
+<div align=center>
+<img width="100%" src="imgs/github_poster2.png"/>
+</div>
+
+
 
 ## Contents
 - [TODO](#todo)
