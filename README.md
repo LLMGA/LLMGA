@@ -56,7 +56,7 @@
 </div>
 
 <div align=center>
-<img width="100%" src="imgs/github_poster2.png"/>
+<img width="100%" src="imgs/demo1.png"/>
 </div>
 
 
