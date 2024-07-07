@@ -59,6 +59,9 @@
 <img width="100%" src="imgs/demo1.png"/>
 </div>
 
+<div align=center>
+<img width="100%" src="imgs/demo2.png"/>
+</div>
 
 
 ## Contents
