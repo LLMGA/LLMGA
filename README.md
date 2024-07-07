@@ -49,6 +49,15 @@
 <img width="100%" src="imgs/github_poster2.png"/>
 </div>
 
+## Why do you need LLMGA?
+
+- [x] As a unified system, LLMGA can generate and edit images using methods such as Text-to-Image (T2I), inpainting, outpainting, and instruction-based editing through conversational interactions with users. By leveraging the extensive knowledge and understanding of image design from LLMGA, users can easily produce and revise images to obtain highly satisfactory images.
+- [x]  LLMGA incorporates an extensive array of image design data, offering deep insights for a wide range of design tasks, including logo creation, game character design, poster design, and more.
+- [x]  LLMGA can interactively generate story illustrations based on user-input story snippets.
+- [x]  With a single user's instruction, LLMGA can generate an interwoven storybook of text and illustrations.
+- [x]  Through the multilingual adaptation of the large language model, it can seamlessly generate content in any language.
+- [x]  LLMGA offers enhanced flexibility by integrating with external plugins like ControlNet, enabling a wider range of functionalities.
+
 
 ## Contents
 - [TODO](#todo)
