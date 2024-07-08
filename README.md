@@ -18,7 +18,7 @@
 ## News
 **New Version (Accepted by ECCV2024):**
 - [x] [2024.07.06] The finetuned SD15 models have been released, including [SD15-T2I](https://huggingface.co/binxia/llmga-sd15-t2i-v2) and [SD15-inpainting](https://huggingface.co/binxia/llmga-sd15-inpainting-v2). Notably, our SD15-T2I model can also be used for instruction-based editing of LLMGA.
-- [x] [2024.07.06] The finetuned SDXL models have been released, including [SDXL-T2I](https://huggingface.co/binxia/llmga-sdxl-t2i) and [SDXL-inpainting](https://huggingface.co/binxia/llmga-sdxl-inpainting). 
+- [x] [2024.07.06] The finetuned SDXL models have been released, including [SDXL-T2I](https://huggingface.co/binxia/llmga-sdxl-t2i) and [SDXL-inpainting](https://huggingface.co/binxia/llmga-sdxl-inpainting-v2/tree/main). 
 - [x] [2024.07.06] The pre-trained models, which further support Chinese (obtained by further fine-tuned on mixed Chinese and English data),  have been released, including [llmga-cn-vicuna 7b](https://huggingface.co/binxia/llmga-cn-vicuna-7b-v1.5-full-finetune), [llmga-cn-llama3 8b](https://huggingface.co/binxia/llmga-cn-llama3-8b-it-full-finetune), [llmga-cn-gemma 2b](https://huggingface.co/binxia/llmga-cn-gemma-2b-it-full-finetune), and [llmga-cn-qwen2 0.5b](https://huggingface.co/binxia/llmga-cn-Qwen2-0.5B-full-finetune).
 - [x] [2024.07.06] We release new version LLMGA's [training datasets](https://huggingface.co/datasets/binxia/LLMGA-datasetv2/tree/main), including texts and images.
 - [x] [2024.07.05] The pre-trained model has been released, including [llmga-vicuna 7b](https://huggingface.co/binxia/llmga-vicuna-7b-v1.5-full-finetune/tree/main), [llmga-mistral 7b](https://huggingface.co/binxia/llmga-mistral_instruct-full-finetune/tree/main), [llmga-llama3 8b](https://huggingface.co/binxia/llmga-llama3-8b-it-full-finetune/tree/main), [llmga-vicuna7b](https://huggingface.co/binxia/llmga-vicuna-7b-v1.5-full-finetune/tree/main), [llmga-qwen2 0.5b](https://huggingface.co/binxia/llmga-Qwen2-0.5B-full-finetune/tree/main), [llmga-qwen2 1.5b](https://huggingface.co/binxia/llmga-Qwen2-1.5B-full-finetune/tree/main), [llmga-qwen2 7b](https://huggingface.co/binxia/llmga-Qwen2-7B-full-finetune/tree/main), [llmga-phi3 3b](https://huggingface.co/binxia/llmga-Phi-3-mini-128k-full-finetune/tree/main), and [llmga-gemma 2b](https://huggingface.co/binxia/llmga-gemma-2b-it-full-finetune/tree/main).
@@ -226,7 +226,7 @@ Please download MLLM Models and SD models from the following links. For example,
   </tr>
   <tr>
     <td align="left">LLMGA-SDXL-Inpainting</td>
-    <td align="center"><a href="https://huggingface.co/binxia/llmga-sdxl-inpainting">Download</a></td>
+    <td align="center"><a href="https://huggingface.co/binxia/llmga-sdxl-inpainting-v2">Download</a></td>
   </tr>
 </table>
 
